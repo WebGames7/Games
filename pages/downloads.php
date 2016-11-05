@@ -48,7 +48,7 @@ and open the template in the editor.
         <div class="banner">
             <div class="grid-dw">
               <h2>Melhores Jogos para PC</h2>
-                <div id="test"><a href="#"><img src="../ativos/img/img-pager/1.jpg"></a></div>
+                <div class="c"><a href="#"><img src="../ativos/img/img-pager/1.jpg"></a></div>
                 <div class="c"><a href="#"><img src="../ativos/img/img-pager/1.jpg"></a></div>
                 <div class="c"><a href="#"><img src="../ativos/img/img-pager/1.jpg"></a></div>
             </div>
